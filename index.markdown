@@ -86,10 +86,11 @@ Details will be released soon.
 
 
 
-## Organizers
+## Organized by [Clementine](https://clementine.games)
 Abhijat Biswas, [abhijat@clementine.games](abhijat@clementine.games) \\
 Kenneth Faulkner, [kenneth@clementine.games](kenneth@clementine.games) \\
 Ramon Iglesias, [ramon@clementine.games](ramon@clementine.games) 
 
-Last updated on February 15, 2025.
+Parts of this project page were adopted from the [Nerfies](https://nerfies.github.io/) and [Dice Adventure competion](https://strong-tact.github.io/) page.
 
+Last updated on February 15, 2025.

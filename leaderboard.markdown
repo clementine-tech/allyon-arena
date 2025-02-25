@@ -6,7 +6,7 @@ layout: page
 order: 4
 ---
 
-|Rank            |Team ID         |Player A        |Player B        |Player C        |Total Score     |
+|Rank            |Player ID         | Challenge Time        |Total Commands        |Damage Taken        |Total Score     |
 |----------------|----------------|----------------|----------------|----------------|----------------|
 |              |               |||    |
 
